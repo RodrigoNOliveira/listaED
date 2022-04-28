@@ -1,0 +1,14 @@
+.vscode
+out
+.classpath
+.project
+.settings
+.metadata
+*.log
+*.zip
+*.class
+*.swp
+target
+build
+bin
+*~
